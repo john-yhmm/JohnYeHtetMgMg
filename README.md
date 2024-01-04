@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JohnYeHtetMgMg
-- 👀 I’m interested in ... building Web Applications, Software development,
-      writing clean code as much as I can, playing Bass Guitar and piano.
-- 🌱 I’m currently learning ... Java, Spring Boot, Unit testing, Test Driven Development,
-      JavaScript, Vue.js, MySQL, linux.
+- 👀 I’m interested in ... building Web Applications, Software development, writing clean code, playing Bass Guitar and piano.
+- 🌱 I’m currently learning ... Java, Spring Boot, Unit testing, TDD, JavaScript, Vue.js, MySQL, linux.
 - 📫 How to reach me ... johnyehtetmgmg@gmail.com
 
 <!---
